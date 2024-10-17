@@ -17,3 +17,5 @@ Data Analyst
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/sohan-ramphal-2b47541ba" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+You can find my Tableau visualisations at https://public.tableau.com/app/profile/sohan.ramphal/viz/Fortune500Dashboard_17285656131300/Dashboard1
