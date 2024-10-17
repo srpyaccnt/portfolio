@@ -6,7 +6,7 @@ Data Analyst
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [srampdataanalyst@gmail.com](mailto:srampdataanalyst@gmail.com)
-* 🧠  I'm learning Data Analysis on Just IT Bootcamp
+* 🧠  I have completed a bootcamp with Just IT
 
 ### Skills
 
